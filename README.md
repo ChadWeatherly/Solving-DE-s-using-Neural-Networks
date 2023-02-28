@@ -4,6 +4,10 @@ As part of an undergraduate research course, I spent a semester working briefly 
 
 Here are some results for 1st-order ODE's:
 
+```math
+{df}/over{dt} = -0.23 * f(t)
+```
+
 ![ode-1](nn-ode-1.png)
 
 ![ode-2](nn-ode-2.png)
